@@ -1,6 +1,6 @@
 ## Result
 
-Home repo is at [MBP-BrainIAC](https://github.com/TyBruceChen/MBP-BrainIAC/tree/main)
+Home repo is at [MBP-BrainIAC](https://github.com/TyBruceChen/MBP-BrainIAC/tree/main). These are just results analysis.
 
 Files:
 
