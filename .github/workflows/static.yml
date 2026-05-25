@@ -33,6 +33,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           lfs: true
+          
+      - name: Force Git LFS Checkout
+        # This manually forces the runner to overwrite pointer text with actual HTML content
+        run: git lfs pull 
+        
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
