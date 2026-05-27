@@ -1,6 +1,8 @@
 ## Result
 
-Home repo is at [MBP-BrainIAC](https://github.com/TyBruceChen/MBP-BrainIAC). These are just results analysis.
+Whole repo is at [MBP-BrainIAC](https://github.com/TyBruceChen/MBP-BrainIAC). These are just results analysis.
+
+To generate the optical flow visualization, notebook needs either to modify the path of optical_flow.py file or clone from the whole repo mentioned above. 
 
 Files:
 
